@@ -45,6 +45,10 @@ main {
     line-height: 2em;
 }
 
+main p {
+    padding: 30px 0px;
+}
+
 main > section.fbranco {
     padding: 10vh 30px;
 }
