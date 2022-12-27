@@ -56,7 +56,7 @@ main > section.fbranco {
 main > section.fimage {
     background-color: black;
     background-size: cover;
-    background-position: center center;
+    background-position: right center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: white;
@@ -67,6 +67,7 @@ main > section.fimage {
 section.fimage > p {
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.281);
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.74);
 }
 
 section.fimage#joana {
